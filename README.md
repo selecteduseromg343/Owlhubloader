@@ -1,3 +1,9 @@
+--------]
+script made by me
+
+--------]
+
+
 local ScreenGui = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
@@ -7,6 +13,8 @@ local TextButton = Instance.new("TextButton")
 local UICorner_3 = Instance.new("UICorner")
 local TextLabel_2 = Instance.new("TextLabel")
 local UICorner_4 = Instance.new("UICorner")
+
+print("Server: loaded owl hub loader !")
 
 ScreenGui.Parent = game.CoreGui
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
